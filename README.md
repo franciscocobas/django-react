@@ -1,6 +1,6 @@
 # Django & React App
 
 Run server
-`cd musci_controller`
+`cd music_controller`
 
 `python3 manage.py runserver`
