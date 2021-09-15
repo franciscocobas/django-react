@@ -5,6 +5,8 @@ import HomePage from './HomePage';
 import RoomJoinPage from './RoomJoinPage';
 import CreateRoomPage from './CreateRoomPage';
 
+import '../styles/global.css';
+
 function App() {
   return (
     <Router>
